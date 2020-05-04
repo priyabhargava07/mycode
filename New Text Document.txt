@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> my page</title>
+</head>
+<body bgcolor="blue">
+<p>
+this is a paragraph
+</p>
+</body>
+</html>
